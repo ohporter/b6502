@@ -26,6 +26,7 @@ Examples
 --------
 
 * pokechar - simplest b6502rproc example. stores an ascii 'C' to sram
+* bvuart - echo characters back to the virtual uart kernel driver
 
 Build and Run
 -------------
